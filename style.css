@@ -89,11 +89,11 @@ footer{
     margin:0px 20px;
 }
 
-/* @media screen and (max-width:1000px) {
+@media screen and (max-width:1000px) {
     .parent{
         display:none;
     }
     .parent2{
         display: flex;
     }
-} */
+}
