@@ -79,3 +79,21 @@ footer{
 .s1{
     text-decoration: underline red;
 }
+.parent2{
+    display:none;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    color: #1e1e1e;
+    margin:0px 20px;
+}
+
+@media screen and (max-width:1000px) {
+    .parent{
+        display:none;
+    }
+    .parent2{
+        display: flex;
+    }
+}
